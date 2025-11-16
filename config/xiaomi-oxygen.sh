@@ -3,6 +3,6 @@
 
 OPTIONS=(-r vsn -r vsp)
 PANELS=(
-	[auo_r61322_1080p_video]="xiaomi,auo-r61322"
-	[tianma_r63350_1080p_video]="xiaomi,tianma-r63350"
+	[auo_r61322_1080p_video]="xiaomi,oxygen-r61322-auo"
+	[tianma_r63350_1080p_video]="xiaomi,oxygen-r63350-tianma"
 )
